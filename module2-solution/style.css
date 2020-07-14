@@ -1,0 +1,96 @@
+/********** desdok devices   **********/
+@media (min-width: 991px) {
+	p {
+  width: 30%;
+  border: 1px solid black;
+  float: left;
+  /*//background-color: grey;*/
+  padding: 10px;
+  margin: 10px;
+  height:100px;
+      padding-top: 21px;
+
+}
+
+}
+
+
+/********** tablet devices   **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+/********** mobile devices   **********/
+ 
+@media (max-width: 767px) {
+
+}
+/* * {
+  box-sizing: border-box;
+  
+} */ 
+
+div#container {
+   
+  position: relative;
+  top: 50px;
+}
+ 
+
+#p1 {
+  text-align: left;
+    position: relative;
+  background-color: grey;
+}
+#p2 {
+   text-align: left;
+   position: relative;
+   background-color: grey;
+
+}
+#p3 {
+  text-align: left;
+  position: relative;
+  background-color: grey;
+  
+  
+}
+.button1 {
+  background-color: #E9967A;
+  border:none; ;
+  color: black;
+padding: 20px:;
+  position: absolute;
+  top: 0;
+  right: 0;
+ /* text-decoration: none;
+  display: inline-block;*/
+  font-size: 16px;
+}
+.button2 {
+  background-color: #B22222;
+  border:none; ;
+  color: black;
+padding: 20px:;
+  position: absolute;
+  top: 0;
+  right: 0;
+ /* text-decoration: none;
+  display: inline-block;*/
+  font-size: 16px;
+}
+.button3 {
+  background-color: #F0E68C;
+  border:none; ;
+  color: black;
+padding: 20px:;
+  position: absolute;
+  top: 0;
+  right: 0;
+ /* text-decoration: none;
+  display: inline-block;*/
+  font-size: 16px;
+}
+
+
